@@ -1,0 +1,1 @@
+<h3>Hello, <?php echo $name ?>, i am in view</h3>
